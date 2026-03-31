@@ -1,12 +1,12 @@
 <div align="center">
 
-[![LinkedIn](https://www.linkedin.com/in/chayan-yadav-048a9637b/)]
-[![GitHub](https://github.com/Chayanyadav/DIGITAL-_LITERACY_PORTFOLIO_MAIN)]
-[![Kaggle](https://www.kaggle.com/chayanyadav)]
+[![LinkedIn](c:\Users\yadav\OneDrive\Pictures\Screenshots\Screenshot 2026-03-31 184258.png)]
+[![GitHub](c:\Users\yadav\OneDrive\Pictures\Screenshots\Screenshot 2026-03-31 184528.png)]
+[![Kaggle](c:\Users\yadav\OneDrive\Pictures\Screenshots\Screenshot 2026-03-31 184633.png)]
 
-[![Google Form](https://docs.google.com/forms/d/126_LCHSyBwXjW3LRTOClw1AQuKQRC6Fo4kw0qFywj7w/edit)]
+[![Google Form](c:\Users\yadav\OneDrive\Pictures\Screenshots\Screenshot 2026-03-31 184729.png)]
 
-[![VIT Bhopal](https://img.shields.io/badge/VIT%20Bhopal-25BEY10012-FF6B00?style=for-the-badge&logo=university&logoColor=white)]()
+[![VIT Bhopal](https://img.shields.io/badge/VIT%20Bhopal-25BEY10019-FF6B00?style=for-the-badge&logo=university&logoColor=white)]()
 [![Course](https://img.shields.io/badge/CSE0001-Digital%20Literacy-2E75B6?style=for-the-badge&logo=bookstack&logoColor=white)]()
 [![License](https://github.com/Chayanyadav/DIGITAL-_LITERACY_PORTFOLIO_MAIN/blob/main/LICENSE)](LICENSE)
 
